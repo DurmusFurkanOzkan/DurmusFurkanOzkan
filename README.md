@@ -13,7 +13,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
 ✨ Back-End Development: Node.js, MongoDB, Express, Django, MySQL
 
  ## 📫 How to reach me: <br>
-<span style="margin-left:50em;" >✨ LinkedIn:</span> <a href='https://www.linkedin.com/in/g-merve-ayaz-b7428849/'>llldfo</a>
+<span style="margin-left:50em;" >✨ LinkedIn:</span> <a href='https://www.linkedin.com/in/g-merve-ayaz-b7428849/'>DurmusFurkanOzkan</a>
 
 
 
