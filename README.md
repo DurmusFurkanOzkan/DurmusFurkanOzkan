@@ -1,7 +1,7 @@
 
 Hi there 👋
 
-✨ Furkan here ✨ I'm a junior .net developer, interested in writing new codes, dreaming new designs and creating new web sites and desktop applications 
+✨ Furkan here ✨ I'm a junior full stack developer, interested in writing new codes, dreaming new designs and creating new web sites and desktop applications 
 
 You may find some projects on my repos, feel free to contribute or using them. Knowledge is power and sharing knowledge is the best thing for me ⚡⚡⚡
 
