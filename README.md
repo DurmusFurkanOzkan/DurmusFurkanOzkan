@@ -24,6 +24,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
 [Simon Game](https://idyllic-rolypoly-798e83.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/SimonGame)</h3> | HTML, CSS, JS |![Simon Game](https://github.com/DurmusFurkanOzkan/SimonGame/blob/main/Simon_Game_Gif.gif)
 [Drum Kit](https://lively-brioche-f02716.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/DrumKit)</h3> | HTML, CSS, JS |![Drum Kit](https://github.com/DurmusFurkanOzkan/DrumKit/blob/main/Drum_Kit_Gif.gif)
 [Dicee Game](https://sparkly-profiterole-cfb566.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/Dicee_Game)</h3> | HTML, CSS, JS | ![Dicee Game](https://github.com/DurmusFurkanOzkan/Dicee_Game/blob/main/Dicee_Game_Gif.gif)
+[Tindog Project](https://dulcet-jelly-104d12.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/TindogProject)</h3> | HTML, CSS, BOOTSTRAP | ![Tindog Project](https://github.com/DurmusFurkanOzkan/TinDogProject/blob/main/Tindog_Gif.gif)
 
 
 
