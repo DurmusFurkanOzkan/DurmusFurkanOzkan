@@ -25,3 +25,13 @@ You may find some projects on my repos, feel free to contribute or using them. K
 [Drum Kit](https://lively-brioche-f02716.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/DrumKit)</h3> | HTML, CSS, JS |![Drum Kit](https://github.com/DurmusFurkanOzkan/DrumKit/blob/main/Drum_Kit_Gif.gif)
 [Dicee Game](https://sparkly-profiterole-cfb566.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/Dicee_Game)</h3> | HTML, CSS, JS | ![Dicee Game](https://github.com/DurmusFurkanOzkan/Dicee_Game/blob/main/Dicee_Game_Gif.gif)
 
+
+
+
+<h3 align="center">📊 GitHub Stats:</h3>
+
+<div align="center"><h3 align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DurmusFurkanOzkan&show_icons=true&locale=en&layout=compact" alt="DurmusFurkanOzkan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DurmusFurkanOzkan&show_icons=true&locale=en" alt="DurmusFurkanOzkan" /></h3>
+ <br>
+<h3 align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></h3>
+</div>
