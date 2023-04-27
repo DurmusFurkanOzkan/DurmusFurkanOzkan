@@ -19,7 +19,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Xe Currency Converter](https://delicate-cactus-177fe6.netlify.app/) <h3>[Repo]https://github.com/DurmusFurkanOzkan/currency_converter</h3> | HTML, CSS, NODEJS, REACTJS, API |![currency_converter](https://github.com/DurmusFurkanOzkan/currency_converter/blob/master/currency_gif.gif)
+[Xe Currency Converter](https://delicate-cactus-177fe6.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/currency_converter)</h3> | HTML, CSS, NODEJS, REACTJS, API |![currency_converter](https://github.com/DurmusFurkanOzkan/currency_converter/blob/master/currency_gif.gif)
 [Weather Project]() <h3>[Repo](https://github.com/DurmusFurkanOzkan/WeatherProject)</h3> | HTML, CSS, NODEJS, EXPRESSJS, EJS |![Weather Project](https://github.com/DurmusFurkanOzkan/WeatherProject/blob/main/Weather_Project_Gif.gif)
 [Pomodoro Project](https://beautiful-torrone-52c4e9.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/Pomodoro_Project)</h3> | HTML, CSS, REACTJS |![Pomodoro Project](https://github.com/DurmusFurkanOzkan/Pomodoro_Project/blob/main/Pomodoro_Gif.gif)
 [Simon Game](https://idyllic-rolypoly-798e83.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/SimonGame)</h3> | HTML, CSS, JS |![Simon Game](https://github.com/DurmusFurkanOzkan/SimonGame/blob/main/Simon_Game_Gif.gif)
