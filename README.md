@@ -1,5 +1,5 @@
 
-<p> style="text-align:center;">Hi there 👋
+<p style="text-align:center;">Hi there 👋
 
 ✨ Furkan here ✨ I'm a junior full stack developer, interested in writing new codes, dreaming new designs and creating new web sites and desktop applications 
 
