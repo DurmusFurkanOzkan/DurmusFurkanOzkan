@@ -26,7 +26,9 @@ You may find some projects on my repos, feel free to contribute or using them. K
 [Drum Kit](https://lively-brioche-f02716.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/DrumKit)</h3> | HTML, CSS, JS |![Drum Kit](https://github.com/DurmusFurkanOzkan/DrumKit/blob/main/Drum_Kit_Gif.gif)
 [Dicee Game](https://sparkly-profiterole-cfb566.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/Dicee_Game)</h3> | HTML, CSS, JS | ![Dicee Game](https://github.com/DurmusFurkanOzkan/Dicee_Game/blob/main/Dicee_Game_Gif.gif)
 [Tindog Project](https://dulcet-jelly-104d12.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/TindogProject)</h3> | HTML, CSS, BOOTSTRAP | ![Tindog Project](https://github.com/DurmusFurkanOzkan/TinDogProject/blob/main/Tindog_Gif.gif)
+[Netflix Survey Form](https://master--subtle-bublanina-8cf6c4.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/Netflix_Survey_Form)</h3> | HTML, CSS |![Netflix Survey Form](https://github.com/DurmusFurkanOzkan/Netflix_Survey_Form/blob/master/netlify_survey_form_gif.gif)
 [Basic Portfolio Page](https://durmusfurkanozkan.github.io/Basic_Portfolio_Page/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/Basic_Portfolio_Page)</h3> | HTML, CSS |![Basic_Portfolio_Page](https://github.com/DurmusFurkanOzkan/Basic_Portfolio_Page/blob/master/basic_portfolio_page.gif)
+
 
 
 
