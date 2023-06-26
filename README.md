@@ -14,7 +14,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
                               🌱🌱🌱To understand the future, I learn programming.⚡⚡⚡
                               
                              
-            <h2 align="center"> My projects</h2>
+<h2 style="text-align:center"> My projects</h2>
 
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
