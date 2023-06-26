@@ -1,17 +1,17 @@
 
-<p style="text-align:center">Hi there 👋 
+<p style="text-align:center">Hi there 
+  
+I'm a Front End developer, interested in writing new codes, dreaming new designs and creating new web sites and desktop applications 
 
-✨ Furkan here ✨ I'm a Front End developer, interested in writing new codes, dreaming new designs and creating new web sites and desktop applications 
-
-You may find some projects on my repos, feel free to contribute or using them. Knowledge is power and sharing knowledge is the best thing for me ⚡⚡⚡
+You may find some projects on my repos, feel free to contribute or using them. Knowledge is power and sharing knowledge is the best thing for me 
 
 ## 📫 How to reach me: <br></p>
-<span style="margin-left:50em;" >✨ LinkedIn:</span> <a href='https://www.linkedin.com/in/durmusfurkanozkan/'>DurmusFurkanOzkan</a>
+<span style="margin-left:50em;" >LinkedIn:</span> <a href='https://www.linkedin.com/in/durmusfurkanozkan/'>DurmusFurkanOzkan</a>
 
 
 
 
-                              🌱🌱🌱To understand the future, I learn programming.⚡⚡⚡
+                          
                               
                              
 <h2 style="text-align:center; display:inline;"> My projects</h2>
