@@ -36,9 +36,5 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 
 
-<h3 align="center">📊 GitHub Stats:</h3>
 
-<div align="center"><h3 align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DurmusFurkanOzkan&show_icons=true&locale=en&layout=compact" alt="DurmusFurkanOzkan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DurmusFurkanOzkan&show_icons=true&locale=en" alt="DurmusFurkanOzkan" /></h3>
- <br>
 
