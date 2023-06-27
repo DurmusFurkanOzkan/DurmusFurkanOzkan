@@ -41,5 +41,5 @@ You may find some projects on my repos, feel free to contribute or using them. K
 <div align="center"><h3 align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DurmusFurkanOzkan&show_icons=true&locale=en&layout=compact" alt="DurmusFurkanOzkan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DurmusFurkanOzkan&show_icons=true&locale=en" alt="DurmusFurkanOzkan" /></h3>
  <br>
-<h3 align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></h3>
+<h3 align="center"><img src="https://github.com/thmsgbrt/DurmusFurkanOzkan/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></h3>
 </div>
